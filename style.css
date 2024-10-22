@@ -1,0 +1,66 @@
+@font-face {
+  font-family: SairaStencilOne-Regular;
+  src: url(Saira_Stencil_One/SairaStencilOne-Regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+body{
+  background-color: rgb(243, 243, 243);
+  text-align: justify;
+}
+
+.sfondoBianco{
+  background-color: rgb(243, 243, 243);
+}
+
+.sfondoMimetico{
+  background-image: url("sfondo.jpg");
+}
+
+.coloreNav{
+  background-color:#333e44;
+}
+
+.titleOrange{
+  color: #e35c2c!important;
+  font-family: SairaStencilOne-Regular;
+  text-transform: uppercase;
+}
+.textOrange{
+  color:#e35c2c;
+}
+
+p{
+  font-family: OpenSans;
+}
+.textWhite{
+  color:rgb(226, 225, 225);
+}
+
+.textSmall{
+  font-size:smaller;
+}
+
+
+
+.nav-item{
+  font-family: SairaStencilOne-Regular!important;
+  font-size:larger;
+  letter-spacing: 0.3px;
+}
+
+a{
+  color:#e35c2c;
+}
+
+.jumbotron {
+  background-color: #8a9da7d1;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 20px;}
