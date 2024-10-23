@@ -48,9 +48,10 @@ p{
 
 
 .nav-item{
-  font-family: SairaStencilOne-Regular!important;
-  font-size:larger;
-  letter-spacing: 0.3px;
+  /*font-family: SairaStencilOne-Regular!important;
+  letter-spacing: 0.3px;*/
+  font-size:18px;
+  
 }
 
 a{
