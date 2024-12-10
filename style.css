@@ -30,8 +30,13 @@ body{
   background-color: #07263c;
 }
 
-.coloreFooter{
+.coloreSfondo{
   background-color: #003961;
+}
+
+.coloreFooter{
+  /*background-color: #003961;*/
+  background: linear-gradient(to top, #07263c, #003961);
 }
 
 .titleOrange{
